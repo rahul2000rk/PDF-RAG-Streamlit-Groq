@@ -1,0 +1,1 @@
+A Streamlit web application that leverages Retrieval Augmented Generation (RAG) to enable interactive question-answering on uploaded PDF documents. It uses LangChain for text processing and vector storage (FAISS with HuggingFace embeddings) and integrates with Groq's powerful LLMs for generating responses based on the document's content.
